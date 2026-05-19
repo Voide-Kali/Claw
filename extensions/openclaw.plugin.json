@@ -1,0 +1,10 @@
+{
+  "id": "openclaw-extensions",
+  "name": "OpenClaw Extensions Root",
+  "description": "Local shared utilities for OpenClaw and workspace plugins.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

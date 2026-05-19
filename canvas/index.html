@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Voz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="title">
+        <h1>Voz</h1>
+        <div class="sub">Página de teste interativa (auto-recarga ativada)</div>
+      </div>
+
+      <div class="row">
+        <button id="btn-hello" aria-label="Enviar ação hello">Hello</button>
+        <button id="btn-time" aria-label="Enviar ação time">Time</button>
+        <button id="btn-photo" aria-label="Enviar ação photo">Photo</button>
+        <button id="btn-dalek" aria-label="Enviar ação dalek">Dalek</button>
+      </div>
+
+      <div id="connection-note" class="sub desktop-note"></div>
+      <div class="row">
+        <button id="btn-retry" class="secondary" aria-label="Tentar conectar novamente à ponte">Retry bridge</button>
+      </div>
+
+      <div id="status" class="sub" style="margin-top: 10px;"></div>
+      <div id="desktop-mode" class="sub" aria-live="polite"></div>
+      <noscript>
+        <div class="notice">JavaScript está desativado. O Voz precisa de JavaScript para testar ações.</div>
+      </noscript>
+      <div id="log" class="log" role="log" aria-live="polite">Ready.</div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+{"type":"memory.recall.recorded","timestamp":"2026-04-18T00:26:16.568Z","query":"meu nome","resultCount":1,"results":[{"path":"memory/2026-04-17.md","startLine":1,"endLine":6,"score":0.4510545492172241}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-18T00:28:13.000Z","query":"meu numero ou telefone","resultCount":1,"results":[{"path":"memory/2026-04-17.md","startLine":1,"endLine":6,"score":0.4477198392152786}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-18T19:21:55.948Z","query":"Meu nome é","resultCount":1,"results":[{"path":"memory/2026-04-17.md","startLine":1,"endLine":6,"score":0.4526308327913284}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-19T02:00:18.967Z","query":"Quem me criou","resultCount":1,"results":[{"path":"memory/2026-04-17.md","startLine":1,"endLine":6,"score":0.4412194192409515}]}

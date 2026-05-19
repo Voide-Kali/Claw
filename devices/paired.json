@@ -1,0 +1,83 @@
+{
+  "331eae7f4cad6d28b131ab57235a080fb28ceb886bfbbb3788a39305f6d91fc3": {
+    "approvedAtMs": 1776369660949,
+    "approvedScopes": [
+      "operator.read",
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "createdAtMs": 1776369660949,
+    "deviceId": "331eae7f4cad6d28b131ab57235a080fb28ceb886bfbbb3788a39305f6d91fc3",
+    "platform": "linux",
+    "publicKey": "RSSnW2Igo1AdmJS4G4uThsLG41LDYgwc0yPCnqTJtYk",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read",
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "createdAtMs": 1776369660950,
+        "role": "operator",
+        "scopes": [
+          "operator.read",
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "token": "cGJjejbQEPnysRCyBSqRo7SCBp4jq6j9plCg9nhdOKE"
+      }
+    },
+    "displayName": "gateway:channels.status"
+  },
+  "57756c80f74eb8a349eb5e57a830d995b171fedea8e112ced5f0d994aabe7a02": {
+    "deviceId": "57756c80f74eb8a349eb5e57a830d995b171fedea8e112ced5f0d994aabe7a02",
+    "publicKey": "TICSV-7KTqYhz_iUwyYCzW-_mX3egJFVSCffBjdL3T0",
+    "platform": "Linux x86_64",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "dzAq0MjyHdAf1PexeBgSVIcVCfL8RRH6e7gdKEH3Qug",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing",
+          "operator.read",
+          "operator.write"
+        ],
+        "createdAtMs": 1776471943803,
+        "lastUsedAtMs": 1776651319870
+      }
+    },
+    "createdAtMs": 1776471943803,
+    "approvedAtMs": 1776471943803
+  }
+}
