@@ -63,3 +63,10 @@ Thumbs.db
 # package-lock.json
 node_modules
 agents/main/agent/models.json
+agents/main/sessions/
+identity/
+devices/
+exec-approvals.json
+update-check.json
+media/inbound/
+.env
