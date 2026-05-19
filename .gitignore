@@ -62,3 +62,4 @@ Thumbs.db
 # Lock files (optional - uncomment if using package-lock.json)
 # package-lock.json
 node_modules
+agents/main/agent/models.json
